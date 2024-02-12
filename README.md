@@ -2,7 +2,7 @@
 A bot that runs nltk and an express server.
 
 ## Steps to run:-
-1) Download the files.
+1) Download the file.
 2) Traverse to the directory and type in the command, "npm start".
 3) All the necessary files will be hosted on "localhost:8080", go to the address "localhost:8080" on your web browser and you're good to go.
 
